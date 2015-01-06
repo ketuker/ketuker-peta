@@ -1,0 +1,21 @@
+{
+    "name": "ketuker/yii2-peta",
+    "description": "extension untuk menampilkan peta",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ketuker",
+            "email": "ketuker@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ketuker\\peta\\": ""
+        }
+    }
+}
